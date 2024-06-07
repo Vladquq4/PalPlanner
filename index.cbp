@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="favorites.csv" />
 		<Unit filename="main.cpp" />
 		<Unit filename="users.csv" />
 		<Extensions>

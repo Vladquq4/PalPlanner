@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1717722822 source:c:\users\vlada\onedrive\desktop\palplanner\index\main.cpp
+1717799047 source:c:\users\vlada\onedrive\desktop\palplanner\index\main.cpp
 	<iostream>
 	<fstream>
 	<string>
@@ -7,5 +7,10 @@
 	<cstring>
 	<vector>
 	<windows.h>
+	<unordered_set>
+	<unordered_map>
 	<map>
+	<ctime>
+	<set>
+	<algorithm>
 
