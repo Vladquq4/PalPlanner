@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717722822 source:c:\users\vlada\onedrive\desktop\palplanner\index\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstring>
+	<vector>
+	<windows.h>
+	<map>
+
